@@ -17,12 +17,12 @@
 - 발표는 정리한 내용을 함께 읽으면서 공유하는 느낌으로 부담없이 진행합니다.
 - 스터디가 끝나면 PR 승인 후 merge 합니다.
 
-### 🗓️ 진도 계획 <a id="curriculum">
+### 진도 계획 <a id="curriculum">
 | 주차 | 스터디 날짜 | 학습 내용 | 학습 자료 |
 |:---:|:---:|:---:|:---|
 | **1주차** | 03.20(목) 22시 | 웹 렌더링 전략 및 <br /> React Server Component의 이해 | [웹 렌더링 전략 비교](https://nextjs.org/learn/seo/rendering-strategies) <br/> [내 앱에 가장 적합한 렌더링 전략을 선택하는 방법](https://vercel.com/blog/how-to-choose-the-best-rendering-strategy-for-your-app) <br /> [리액트 서버 컴포넌트](https://ko.react.dev/reference/rsc/server-components) |
 | **2주차** | 03.27(목) 21시 (예정) | 렌더링(Rendering) | [렌더링(Rendering)](https://nextjs.org/docs/app/building-your-application/rendering) | 
-| **3주차** | 04.03(목) 21시 (예정) | React Server Function(서버 함수)에 대한 이해 및 <br/> 데이터 페칭(Data fetching) | [리액트 서버 함수](https://ko.react.dev/reference/rsc/server-functions) <br /> [데이터 페칭(Data fetching)](https://nextjs.org/docs/app/building-your-application/data-fetching) | 
+| **3주차** | 04.03(목) 21시 (예정) | React Server Function(서버 함수)에 <br/> 대한 이해 및  데이터 페칭(Data fetching) | [리액트 서버 함수](https://ko.react.dev/reference/rsc/server-functions) <br /> [데이터 페칭(Data fetching)](https://nextjs.org/docs/app/building-your-application/data-fetching) | 
 | **4주차** | 04.10(목) 21시 (예정) | 라우팅(Routing) (1) | [Layouts and Templates](https://nextjs.org/docs/app/building-your-application/routing/layouts-and-templates) <br /> [Linking and Navigating](https://nextjs.org/docs/app/building-your-application/routing/linking-and-navigating) <br /> [Error Handling](https://nextjs.org/docs/app/building-your-application/routing/error-handling) <br /> [Loading UI and Streaming](https://nextjs.org/docs/app/building-your-application/routing/loading-ui-and-streaming) <br /> [Redirecting](https://nextjs.org/docs/app/building-your-application/routing/redirecting) <br /> [Route Groups](https://nextjs.org/docs/app/building-your-application/routing/route-groups) | 
 | **5주차** | 04.17(목) 21시 (예정) | 라우팅(Routing) (2) | [Dynamic Routes](https://nextjs.org/docs/app/building-your-application/routing/dynamic-routes) <br /> [Parallel Routes](https://nextjs.org/docs/app/building-your-application/routing/parallel-routes) <br /> [Intercepting Routes](https://nextjs.org/docs/app/building-your-application/routing/intercepting-routes) | 
 
